@@ -4,6 +4,7 @@ head {
 }
 body {
  background-color:hsl(304, 40%, 80%);
+ body background="1.jpg";
  width: 960px;
  margin-left: auto;
  margin-right: auto;
