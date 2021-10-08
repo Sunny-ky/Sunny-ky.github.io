@@ -21,6 +21,7 @@ div.idol {
  border-style: solid;
  border-color: gray;
  border-radius: 5px;
+ background-color：rgba(230,230,250，0.2)
 }
 
 div.idol-end {
